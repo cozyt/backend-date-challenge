@@ -3,7 +3,6 @@
 
 namespace Vice\Challenge;
 
-
 interface DifferenceCalculator
 {
     /**
